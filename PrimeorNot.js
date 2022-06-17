@@ -51,3 +51,4 @@ function primeOrNot(a) {
 }
 let userInput = 83;
 primeOrNot(userInput);
+
